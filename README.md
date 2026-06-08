@@ -5,4 +5,4 @@ This project is a multi-round two-player Tic-Tac-Toe game with score tracking pr
 ## Screenshot
 The following is a screenshot of the game.
 
-<img src="screenshot.png" alt="screenshot" width="200"/>
+<img src="screenshot.png" alt="screenshot" width="300"/>
